@@ -9,7 +9,7 @@ gem 'bcrypt-ruby', '3.1.2'
 # gem 'sqlite3'
 
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass'
-gem 'will_paginate', '3.0.4'
+gem 'will_paginate', '3.3.0'
 gem 'bootstrap-will_paginate', '0.0.9'
 
 
